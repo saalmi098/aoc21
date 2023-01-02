@@ -1,0 +1,9 @@
+3,4,3,1,2
+
+[0] -> 0
+
+fishPosition[index lt. input] -> ++
+wegshiften
+
+8er Position => die die vorher 0 waren
+6er Positionen += alle 0er
